@@ -1,0 +1,40 @@
+#main {
+  background: #eee;
+}
+
+h1, p, h3, h2 {
+  display: block;
+  margin: 0 30px;
+  font-family: comic sans ms;
+  text-align: center
+}
+
+img {
+    max-width: 100%;
+    display: block;
+    height: auto;
+    margin: 0 auto;
+}
+
+ul {
+  font-family: comic sans ms;
+}
+
+li {
+  text-align: justify;
+  margin: 0 30px;
+}
+
+#quote {
+  display: block;
+  margin: 0 30px;
+  font-style: italic;
+}
+
+a {
+  color: #477ca7;
+}
+
+a:visited {
+  color: #800080;
+}
