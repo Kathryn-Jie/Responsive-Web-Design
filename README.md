@@ -9,3 +9,6 @@ https://codepen.io/Kathryn-Jie/full/OJWOXmR
 
 ### Build a Product Landing Page
 https://codepen.io/Kathryn-Jie/full/NWdzbEM
+
+### Build a Technical Documentation Page
+https://nbviewer.jupyter.org/github/Kathryn-Jie/Responsive-Web-Design/blob/main/Technical%20Documentation%20Page/Tecnical-Documentation-Page.html
