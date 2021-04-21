@@ -1,0 +1,12 @@
+body {
+  text-align: justify; 
+}
+
+blockquote {
+  font-size: 14px !important;
+  background-color: #eee;
+}
+
+.list-group-item.active, .list-group-item.active:focus, .list-group-item.active:hover {
+  background-color: #447da2cf !important;
+}
