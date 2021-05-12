@@ -9,10 +9,12 @@ h2, p {
 }
 
 form {
+  margin:auto;
   background: #E9CFEC;
-  margin: 30px 150px;
   border-radius: 0.25rem;
+  width:80%;
   }
+
 
 label, select, #name, #email, #number, textarea {
   display: block;
